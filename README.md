@@ -10,7 +10,7 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 
 🌱 Currently learning: **Polars and Gradient Boosting Tools like XGBoost and LightGBM**
 
-🎮 Currently Gaming: **Geometry Dash (11% Theory of Everything 2)**
+🎮 Currently Gaming: **Geometry Dash (14% Theory of Everything 2)**
 
 🔧 Work in Progress: **Personal Website (almost done!), Case Study of Pandas vs Polars**
 
