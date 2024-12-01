@@ -8,7 +8,9 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 
 🔭 **Experienced in Exploratory Data Analysis and languages/tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, etc.** 
 
-🌱 Currently learning: **Polars and Gradient Boosting Tools like XGBoost and LightGBM**
+🌱 Currently learning: **Polars, XGBoost, LightGBM, PyTorch**
+
+📝 Want to learn: **Cloud Services (AWS, Azure), Apache Spark, Hadoop**
 
 🎮 Currently Gaming: **Geometry Dash (14% Theory of Everything 2)**
 
