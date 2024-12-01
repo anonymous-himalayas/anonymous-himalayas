@@ -3,7 +3,7 @@
 
 ### My name is Himal Malik and I am passionate about using the power of data to help others. 
 
-I am currently a junior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](himalm100@gmail.com)!
+I am currently a junior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](mailto:himalm100@gmail.com)!
 
 
 🔭 **Experienced in Exploratory Data Analysis and languages/tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, etc.** 
