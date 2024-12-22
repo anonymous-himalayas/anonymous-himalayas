@@ -12,7 +12,7 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 
 📝 Want to learn: **Cloud Services (AWS, Azure), Apache Spark, Hadoop**
 
-🎮 Currently Gaming: **Geometry Dash (14% Theory of Everything 2)**
+🎮 Currently Gaming: **Overwatch 2**
 
 🔧 Work in Progress: **Personal Website (almost done!), Case Study of Pandas vs Polars**
 
