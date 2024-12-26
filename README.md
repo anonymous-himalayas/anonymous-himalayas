@@ -8,13 +8,13 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 
 🔭 **Experienced in Exploratory Data Analysis and languages/tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, etc.** 
 
-🌱 Currently learning: **Polars, XGBoost, LightGBM, PyTorch**
+🌱 Currently learning: **XGBoost, LightGBM, Apache Spark**
 
-📝 Want to learn: **Cloud Services (AWS, Azure), Apache Spark, Hadoop**
+📝 Want to learn: **Cloud Services (AWS, Azure), Hadoop**
 
 🎮 Currently Gaming: **Overwatch 2**
 
-🔧 Work in Progress: **Personal Website (almost done!), Case Study of Pandas vs Polars**
+🔧 Work in Progress: **Personal Website (almost done!), Pandas vs Polars**
 
 ### Projects
 Check out some of my favorite work:
