@@ -10,7 +10,7 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 
 🌱 Currently learning: **XGBoost, LightGBM, AWS**
 
-📝 Want to learn: **Apache Spark, Kubernetes, Hadoop**
+📝 Want to learn: **Apache Spark, Kubernetes, Hadoop, Dask**
 
 🎮 Currently Gaming: **Overwatch 2**
 
