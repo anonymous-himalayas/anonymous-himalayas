@@ -20,7 +20,7 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 Check out some of my favorite work:
 - [COVID-19 Data AI](https://github.com/anonymous-himalayas/COVID-19_Data_AI), chatbot designed to help users on preventing COVID
 - [I See OC Health](https://github.com/anonymous-himalayas/I-See-OC-Health), analyzing trends to increase awareness of health in Orange County residents
-- [TrailQuest](https://github.com/anonymous-himalayas/TrailQuest), a gamified hiking platform making the outdoors fun
+- [TrailQuest](https://github.com/anonymous-himalayas/CareerChecker), a solution to what path in the world of Computer Science you should take based off your skills
 
 <!--
 **anonymous-himalayas/anonymous-himalayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
