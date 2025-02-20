@@ -14,7 +14,7 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 
 🎮 Currently Gaming: **Overwatch 2/Marvel Rivals**
 
-🔧 Work in Progress: **Sparking the Torch**
+🔧 Work in Progress: **Sparking the Torch, (Anteater API?)**
 
 ### Projects
 Check out some of my favorite work:
