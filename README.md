@@ -6,15 +6,15 @@
 I am currently a junior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](mailto:himalm100@gmail.com)!
 
 
-🔭 **Experienced in Exploratory Data Analysis/Machine Learning languages and tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, PyTorch, etc.** 
+🔭 **Experienced in Exploratory Data Analysis/Machine Learning languages and tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, PyTorch, AWS, etc.** 
 
-🌱 Currently learning: **XGBoost, LightGBM, AWS**
+🌱 Currently learning: **XGBoost, LightGBM**
 
 📝 Want to learn: **Apache Spark, Kubernetes, Hadoop, Dask**
 
 🎮 Currently Gaming: **Overwatch 2/Marvel Rivals**
 
-🔧 Work in Progress: **Sparking the Torch, (Anteater API?)**
+🔧 Work in Progress: **Kaggle Competitions**
 
 ### Projects
 Check out some of my favorite work:
