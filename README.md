@@ -12,9 +12,9 @@ I am currently a junior at UCI studying Data Science. Feel free to contact me on
 
 📝 Want to learn: **Apache Spark, Kubernetes, Hadoop, Dask**
 
-🎮 Currently Gaming: **Overwatch 2/Marvel Rivals**
+🎮 Currently Gaming: **Overwatch 2/Valorant**
 
-🔧 Work in Progress: **Kaggle Competitions**
+🔧 Work in Progress: **Birthday Discord Bot**
 
 ### Projects
 Check out some of my favorite work:
