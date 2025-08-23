@@ -5,13 +5,13 @@
 
 I am currently a senior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](mailto:himalm100@gmail.com)!
 
-💗 2025 Data Science Intern @ CVS Health  
+💗 **2025 Data Science Intern @ CVS Health**  
 
-🔭 **Experienced in Exploratory Data Analysis/Machine Learning languages and tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, PyTorch, AWS, etc.** 
+🔭 **Experienced in Exploratory Data Analysis/Machine Learning concepts and tools like Python, R, SQL, etc.** 
 
 🌱 Currently learning: **XGBoost, LightGBM**
 
-📝 Want to learn: **Apache Spark, Kubernetes, Hadoop, Dask**
+📝 Want to learn: **Apache Spark, Kubernetes, Hadoop, Dask, Grafana**
 
 🎮 Currently Gaming: **Overwatch 2/Valorant**
 
