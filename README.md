@@ -6,7 +6,7 @@
 I am currently a junior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](mailto:himalm100@gmail.com)!
 
 
-🔭 **Experienced in Exploratory Data Analysis/Machine Learning languages and tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, PyTorch, AWS, etc.** 
+🔭 **Data Science Intern with CVS Health and experienced in Exploratory Data Analysis/Machine Learning languages and tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, PyTorch, AWS, etc.** 
 
 🌱 Currently learning: **XGBoost, LightGBM**
 
