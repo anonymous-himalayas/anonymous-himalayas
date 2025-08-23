@@ -3,10 +3,11 @@
 
 ## My name is Himal Malik and I am passionate about using the power of data to help others. Check out my [website](https://anonymous-himalayas.github.io)!
 
-I am currently a junior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](mailto:himalm100@gmail.com)!
+I am currently a senior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](mailto:himalm100@gmail.com)!
 
+💗 2025 Data Science Intern @ CVS Health  
 
-🔭 **Data Science Intern with CVS Health and experienced in Exploratory Data Analysis/Machine Learning languages and tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, PyTorch, AWS, etc.** 
+🔭 **Experienced in Exploratory Data Analysis/Machine Learning languages and tools like Python, R, SQL, Pandas, Scikit-learn, Tensorflow, PyTorch, AWS, etc.** 
 
 🌱 Currently learning: **XGBoost, LightGBM**
 
