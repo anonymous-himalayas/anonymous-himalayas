@@ -15,7 +15,7 @@ I am currently a senior at UCI studying Data Science. Feel free to contact me on
 
 🎮 Currently Gaming: **Overwatch 2/Valorant**
 
-🔧 Work in Progress: **Reminder Discord Bot**
+🔧 Work in Progress: **LazyShopper**
 
 ### Projects
 Check out some of my favorite work:
