@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## My name is Himal Malik and I am passionate about using the power of data to help others. Check out my [website](https://anonymous-himalayas.github.io)!
+## My name is Himal Malik and I am passionate about using the power of data to help others.
 
 I am currently a senior at UCI studying Data Science. Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/himal-malik-data-sci/) or my [email](mailto:himalm100@gmail.com)!
 
@@ -11,11 +11,9 @@ I am currently a senior at UCI studying Data Science. Feel free to contact me on
 
 🌱 Currently learning: **XGBoost, LightGBM**
 
-📝 Want to learn: **Apache Spark, Kubernetes, Hadoop, Dask, Grafana**
-
 🎮 Currently Gaming: **Overwatch 2/Valorant**
 
-🔧 Work in Progress: **LazyShopper** and **Reminder Bot**
+🔧 Work in Progress: **LazyShopper**
 
 ### Projects
 Check out some of my favorite work:
@@ -23,6 +21,12 @@ Check out some of my favorite work:
 - [I See OC Health](https://github.com/anonymous-himalayas/I-See-OC-Health), analyzing trends to increase awareness of health in Orange County residents
 - [CareerChecker](https://github.com/anonymous-himalayas/CareerChecker), a solution to what path in the world of Computer Science you should take based off your skills
 
+### Discord Bots
+I recently got into creating simple Discord bots
+- Birthday Bot, stores all my friends birthdays because I have too many friends
+- Reminder Bot, stores all my reminders
+
+Why can't I use a reminders app on my phone for all this? Because Discord is cooler
 <!--
 **anonymous-himalayas/anonymous-himalayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
