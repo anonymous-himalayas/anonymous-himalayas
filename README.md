@@ -11,7 +11,7 @@ I am currently a senior at UCI studying Data Science. Feel free to contact me on
 
 🌱 Currently learning: **XGBoost, LightGBM**
 
-🎮 Currently Gaming: **Overwatch 2/Valorant**
+🎮 Currently Gaming: **Overwatch 2/Geometry Dash**
 
 🔧 Work in Progress: **LazyShopper**
 
